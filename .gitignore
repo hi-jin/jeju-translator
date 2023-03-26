@@ -1,7 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,python,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,macos,python,linux
-model/checkpoints/*
-model/dataset/*
+backend/model/checkpoints/*
+backend/model/dataset/*
 
 ### Linux ###
 *~

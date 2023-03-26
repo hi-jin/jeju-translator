@@ -9,8 +9,9 @@ I fine-tuned the [pko-t5 model](https://huggingface.co/paust/pko-t5-base) on Hug
 
 ## Directory structure
 
-:open_file_folder: model : translator model  
-:open_file_folder: app : mobile translator application
+:open_file_folder: app : mobile translator application  
+:open_file_folder: backend : backend to provide inference API  
+-- :open_file_folder: model : translator model  
 
 ## License
 
