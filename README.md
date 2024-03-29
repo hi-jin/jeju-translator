@@ -2,6 +2,12 @@
 
 > [AI Hub](https://aihub.or.kr/intrcn/guid/usagepolicy.do?currMenu=151&topMenu=105)에서 제공한 AI데이터를 이용한 한국지능정보사회진흥원의 사업결과입니다.
 
+
+
+https://github.com/hi-jin/jeju-translator/assets/51053567/cfcb2f4c-3ac2-45d0-ae60-1d01764b4ef2
+
+
+
 ## Desc
 
 This is "standard :arrow_right: jeju dialect" translator.  
